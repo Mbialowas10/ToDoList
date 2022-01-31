@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+// added some comments
 export default function Form({addItemToList}){
 
   const [item,setItem] = useState("");
